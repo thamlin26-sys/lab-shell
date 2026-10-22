@@ -1,0 +1,4 @@
+Reminders
+---------
+- review the cleanup plan
+# TODO: back up the repo before the demo

@@ -1,0 +1,4 @@
+Field notes -- autumn 2019.
+The safehouse key is under the third flowerpot.
+FLAG{aut0mate_the_b0ring_stuff}
+Burn after reading.
