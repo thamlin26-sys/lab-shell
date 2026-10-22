@@ -1,4 +1,4 @@
-flag location: <./docs/archive/fieldnotes.txt>:<3>
+flag location: ./docs/archive/fieldnotes.txt:3
 top-level Python line count: 17
 unfinished markers: 7
 top-level Python file count: 3
